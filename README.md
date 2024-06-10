@@ -1,6 +1,4 @@
-#Git curso
+##Novo arquivo para teste do curso
 
-##Salvando alterações git
-git *Uso do comando git restore
-*Comando novo git
-
+#Este é o teste 01
+*comando pull
